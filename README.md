@@ -1,22 +1,22 @@
 ### Hi there, I'm Đoàn Văn Hùng
 
-## Nothing !
-
 ### Languages and Tools:
 
-![Php](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
-![Javacript](https://img.shields.io/badge/-JAVASCRIPT-000000?style=flat&logo=JAVASCRIPT)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> 
 
 <br />
-<br />
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<img align="left" alt="doanvanhung9x's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=doanvanhung9x&show_icons=true" />
-<br/>
-<img align="left" alt="doanvanhung9x's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doanvanhung9x" />
+<br />
+<a href="https://github.com/doanvanhung9x">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=doanvanhung9x&show_icons=true&include_all_commits=true&" alt="Đoàn Văn Hùng" />
+</a>
+<a href="https://github.com/doanvanhung9x">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doanvanhung9x&layout=compact" />
+</a>
