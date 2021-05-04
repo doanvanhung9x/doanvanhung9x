@@ -1,11 +1,6 @@
-### Hi there, I'm Đoàn Văn Hùng  👋
+### Hi there, I'm Đoàn Văn Hùng
 
-## I'm a Developer, and !!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other hardworking coder
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡  I love to photography and design
+## Nothing !
 
 ### Languages and Tools:
 
@@ -18,11 +13,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-
 <br />
-<br />
-
-
 <img align="left" alt="doanvanhung9x's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=doanvanhung9x&show_icons=true" />
 <br/>
 <img align="left" alt="doanvanhung9x's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doanvanhung9x" />
